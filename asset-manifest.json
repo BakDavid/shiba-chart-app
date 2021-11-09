@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/shiba-chart-app/static/js/main.f66843dc.chunk.js",
+    "main.js.map": "/shiba-chart-app/static/js/main.f66843dc.chunk.js.map",
+    "runtime-main.js": "/shiba-chart-app/static/js/runtime-main.e903ba4b.js",
+    "runtime-main.js.map": "/shiba-chart-app/static/js/runtime-main.e903ba4b.js.map",
+    "static/js/2.6040f73a.chunk.js": "/shiba-chart-app/static/js/2.6040f73a.chunk.js",
+    "static/js/2.6040f73a.chunk.js.map": "/shiba-chart-app/static/js/2.6040f73a.chunk.js.map",
+    "index.html": "/shiba-chart-app/index.html",
+    "static/js/2.6040f73a.chunk.js.LICENSE.txt": "/shiba-chart-app/static/js/2.6040f73a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e903ba4b.js",
+    "static/js/2.6040f73a.chunk.js",
+    "static/js/main.f66843dc.chunk.js"
+  ]
+}
